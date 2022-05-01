@@ -12,16 +12,22 @@ I chose to analyze reviews made by users in the "VideoGames" category from among
 
 Total of reviews:
 Vine reviews: 94
+![Image](Modulo161.png?raw=true)
 Non vine Reviews: 40471
+![Image](Modulo162.png?raw=true)
 
 
 Total number of 5-star reviews
 Vine reviews: 48
+![Image](Modulo163.png?raw=true)
 Non vine reviews; 15,663
+![Image](Modulo164.png?raw=true)
 
 Percentage of 5-star reviews
 Vine reviews: 51.06
+![Image](Modulo165.png?raw=true)
 Non vine reviews: 38.701
+![Image](Modulo166.png?raw=true)
 
 # Summary
 According to the findings, Vine members did not exhibit bias when rating their products, despite the fact that the number of 5-star ratings was approximately 10% lower than that of non-Vine members (42 percent vs. 46.4 percent ). As a result, we can assume Vine customers are more critical when submitting a review. To further support this assumption, we should include all of the data rather than filtering it to a percentage of helpful vs. total votes, as we did in this analysis. Examining the data as is would provide us with more information and allow us to further support our hypothesis, as shown below.
